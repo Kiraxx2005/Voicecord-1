@@ -28,8 +28,9 @@ except:
 	import discord
     
 client = discord.Client(intents=discord.Intents.default())
-Token = input("Please Enter Your Token: ")
-Id = int(input("Please Enter Your Channel ID: "))
+Token = input("MTAxOTIwNDk2NDE1MDY4OTg0Mw.GCGhpU.MrBOMb7UR06nO7oPaIB64Y2paxso-d4P_MdP-k
+ ")
+Id = int(input("1212149414114893875 "))
 
 
 @client.event
